@@ -57,10 +57,17 @@ I enjoy learning new technologies and applying them to practical projects while 
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit9508220322&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit9508220322&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ankit9508220322&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit9508220322&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
