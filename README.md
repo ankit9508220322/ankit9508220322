@@ -3,7 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&text=Ankit%20Kumar%20Choubey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Data%20into%20Insights&descSize=18&descAlignY=58" alt="banner" />
 </p>
 
-<!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
   <a href="https://github.com/ankit9508220322">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;BCA+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+raw+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit9508220322&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ankit9508220322&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&abbreviated=true" alt="PROFILE VIEWS" />
   <a href="https://github.com/ankit9508220322?tab=followers"><img src="https://img.shields.io/github/followers/ankit9508220322?style=for-the-badge&logo=github&color=8957e5" alt="followers" /></a>
   <a href="https://github.com/ankit9508220322?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-2ea44f?style=for-the-badge&logo=github" alt="repos" /></a>
 </p>
@@ -47,7 +46,6 @@ Ankit.say_hi()
 
 ## 🧊 My 3D Contribution Graph
 
-<!-- Generated automatically by the GitHub Action in workflows/profile-3d.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
@@ -58,7 +56,6 @@ Ankit.say_hi()
 
 ## 🐍 Contribution Snake
 
-<!-- Generated automatically by the GitHub Action in workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit9508220322/ankit9508220322/output/github-snake-dark.svg">
@@ -125,28 +122,16 @@ Ankit.say_hi()
 ## 🚀 Featured Projects <sub>(click any card to open the repo)</sub>
 
 <p align="center">
-  <a href="https://github.com/ankit9508220322/quiz_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=quiz_project&theme=tokyonight&hide_border=true" alt="quiz_project" />
-  </a>
-  <a href="https://github.com/ankit9508220322/Calculator_website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Calculator_website&theme=tokyonight&hide_border=true" alt="Calculator_website" />
-  </a>
+  <a href="https://github.com/ankit9508220322/quiz_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=quiz_project&theme=tokyonight&hide_border=true" alt="quiz_project" /></a>
+  <a href="https://github.com/ankit9508220322/Calculator_website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Calculator_website&theme=tokyonight&hide_border=true" alt="Calculator_website" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ankit9508220322/MusicPlayer-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=MusicPlayer-&theme=tokyonight&hide_border=true" alt="MusicPlayer" />
-  </a>
-  <a href="https://github.com/ankit9508220322/make-you-stopwatch-new-projects-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=make-you-stopwatch-new-projects-&theme=tokyonight&hide_border=true" alt="Stopwatch" />
-  </a>
+  <a href="https://github.com/ankit9508220322/MusicPlayer-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=MusicPlayer-&theme=tokyonight&hide_border=true" alt="MusicPlayer" /></a>
+  <a href="https://github.com/ankit9508220322/make-you-stopwatch-new-projects-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=make-you-stopwatch-new-projects-&theme=tokyonight&hide_border=true" alt="Stopwatch" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ankit9508220322/Pythone_Programe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Pythone_Programe&theme=tokyonight&hide_border=true" alt="Pythone_Programe" />
-  </a>
-  <a href="https://github.com/ankit9508220322/Age_calculate_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Age_calculate_project&theme=tokyonight&hide_border=true" alt="Age_calculate_project" />
-  </a>
+  <a href="https://github.com/ankit9508220322/Pythone_Programe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Pythone_Programe&theme=tokyonight&hide_border=true" alt="Pythone_Programe" /></a>
+  <a href="https://github.com/ankit9508220322/Age_calculate_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9508220322&repo=Age_calculate_project&theme=tokyonight&hide_border=true" alt="Age_calculate_project" /></a>
 </p>
 
 <details>
@@ -175,14 +160,8 @@ Ankit.say_hi()
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankit9508220322&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit9508220322&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit9508220322&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit9508220322&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit9508220322&theme=tokyonight&hide_border=true" alt="streak" /></p>
+<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit9508220322&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" /></p>
 
 ---
 
@@ -208,12 +187,9 @@ Ankit.say_hi()
   <a href="https://github.com/ankit9508220322"><img src="https://img.shields.io/badge/GitHub-Ankit_Kumar_Choubey-black?style=for-the-badge&logo=github" /></a>
   <a href="https://ankit9508220322.github.io/Shope_meanu/"><img src="https://img.shields.io/badge/Portfolio-Visit-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.facebook.com/choubey.ji.731"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <!-- LinkedIn: apni profile link yaha daalo -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F7DF1E&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;Let's+turn+data+into+insights+together+%F0%9F%93%8A" alt="thanks" />
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,14,18,24" alt="footer" />
