@@ -48,71 +48,28 @@ Ankit.say_hi()
 ## 🧊 My 3D Contribution Graph
 
 <!-- Generated automatically by the GitHub Action in workflows/profile-3d.yml -->
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A .
-          git commit -m "chore: update 3D contribution graph" || exit 0
-          git push
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+</p>
 
 ## 🐍 Contribution Snake
 
 <!-- Generated automatically by the GitHub Action in workflows/snake.yml -->
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit9508220322/ankit9508220322/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankit9508220322/ankit9508220322/output/github-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/ankit9508220322/ankit9508220322/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-## 🛠️ Tech Stack <sub>(click to expand 👇)</sub>
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>🐍 Programming & Data Analytics</b></summary>
@@ -136,7 +93,7 @@ jobs:
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -144,7 +101,7 @@ jobs:
 
 </details>
 
-<details>
+<details open>
 <summary><b>📑 Office & Productivity</b></summary>
 <br>
 
@@ -153,23 +110,13 @@ jobs:
 
 </details>
 
-<details>
-<summary><b>🌐 Web Technologies</b></summary>
+<details open>
+<summary><b>🌐 Web & Apps</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🚀 Development Tools</b></summary>
-<br>
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </details>
 
